@@ -18,6 +18,21 @@ After the dump is complete, you need to restore the original 4-byte magic at the
 
 [Tool to run process with PPL without driver](https://github.com/TwoSevenOneT/CreateProcessAsPPL)
 
+## Demo Video
+
+Youtube: [https://www.youtube.com/watch?v=FZ20oQ-pVwg](https://www.youtube.com/watch?v=FZ20oQ-pVwg)
+
+## ☕ Like what I do? You can fuel my creativity with a coffee!
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+
+## READING
+
+Some books you should read to sharpen your cybersecurity skills, especially in offensive security:
+
+[Books on Programming and Cybersecurity recommended by Zero Salarium Researchers](https://www.zerosalarium.com/2025/10/books-on-programming-and-cybersecurity-recommended.html)
+
+
 ## Author:
 
 [Two Seven One Three](https://x.com/TwoSevenOneT)
