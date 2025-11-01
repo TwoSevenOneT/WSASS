@@ -26,6 +26,12 @@ Youtube: [https://www.youtube.com/watch?v=FZ20oQ-pVwg](https://www.youtube.com/w
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
 
+## Tools For Security Researcher and Hacker
+
+Essential tools that every security researcher and hacker should have in their toolkit:
+
+[Essential Tools For Security Researcher and Hacker](https://www.zerosalarium.com/p/essential-tools-for-security-researcher.html)
+
 ## READING
 
 Some books you should read to sharpen your cybersecurity skills, especially in offensive security:
