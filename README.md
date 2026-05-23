@@ -22,9 +22,9 @@ After the dump is complete, you need to restore the original 4-byte magic at the
 
 Youtube: [https://www.youtube.com/watch?v=FZ20oQ-pVwg](https://www.youtube.com/watch?v=FZ20oQ-pVwg)
 
-## ☕ Like what I do? You can fuel my creativity with a coffee!
+## 🐦 Enjoying my work? Support the journey by following me on X
 
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/twosevenonethree)
+[![Twitter Follow](https://img.shields.io/twitter/follow/TwoSevenOneT?style=for-the-badge&logo=x&color=000)](https://x.com/TwoSevenOneT)
 
 ## Tools For Security Researcher and Hacker
 
